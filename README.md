@@ -1,1 +1,2 @@
-# JS-28-May
+# class-may-28
+First (Pre) Javascript class
